@@ -40,8 +40,6 @@ It combines **secure authentication, intelligent chatbot interactions, and healt
 
 ## 📸 Screenshots
 
-> *(Add your screenshots in a `screenshots/` folder and link them here)*
-
 - **Login Page**  
   <img width="1462" height="833" alt="image" src="https://github.com/user-attachments/assets/fef4af19-58c8-4fd2-883c-ff6fa74e7aef" />
   <img width="1470" height="770" alt="image" src="https://github.com/user-attachments/assets/539d6b49-8989-49bd-8f23-a58308820939" />
